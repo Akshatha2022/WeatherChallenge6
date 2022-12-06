@@ -36,8 +36,8 @@ function handleSearchFormSubmit(event) {
 // Function to get API based on user's city name input
 function getApi(city) {
     
-    var weatherApi = "https://api.openweathermap.org/data/2.5/forecast?q=" + city + "&appid=e3f836202725b93e7126dc3fde5de0fa";
-    var currentApi = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=e3f836202725b93e7126dc3fde5de0fa";
+    var weatherApi = "https://api.openweathermap.org/data/2.5/forecast?q=" + city + "&appid=e3f836202725b93e7126dc3fde5de0fa&units=imperial";
+    var currentApi = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=e3f836202725b93e7126dc3fde5de0fa&units=imperial";
 
     cityEl.innerHTML = "";
     fiveDay.innerHTML = "";
