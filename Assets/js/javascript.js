@@ -13,7 +13,6 @@ var dataFiveDay;
 var currentData;
 var searchInputVal;
 var uvIndex;
-var apiKey = e3f836202725b93e7126dc3fde5de0fa; //Generated using openweathermap
 
 // Function to handle saving user input value for the city name and saving it to local storage
 function handleSearchFormSubmit(event) {
@@ -37,8 +36,8 @@ function handleSearchFormSubmit(event) {
 // Function to get API based on user's city name input
 function getApi(city) {
     
-    var weatherApi = "https://api.openweathermap.org/data/2.5/forecast?q=" + city + "&appid=" + apiKey;
-    var currentApi = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=" + apiKey;
+    var weatherApi = "https://api.openweathermap.org/data/2.5/forecast?q=" + city + "&appid=e3f836202725b93e7126dc3fde5de0fa";
+    var currentApi = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=e3f836202725b93e7126dc3fde5de0fa";
 
     cityEl.innerHTML = "";
     fiveDay.innerHTML = "";
