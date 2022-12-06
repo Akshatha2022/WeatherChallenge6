@@ -96,3 +96,13 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/F
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents - How to manipulate documents
 
 https://openweathermap.org/faq - How to add units=imperial to the api key
+
+https://openweathermap.org/weather-conditions - how to add API Icons from openweathermaps
+
+
+Links:
+
+Repository Link : https://github.com/Akshatha2022/WeatherChallenge6
+
+Deployed Page Link : https://akshatha2022.github.io/WeatherChallenge6/
+ 
