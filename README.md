@@ -95,3 +95,4 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/F
 
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents - How to manipulate documents
 
+https://openweathermap.org/faq - How to add units=imperial to the api key
