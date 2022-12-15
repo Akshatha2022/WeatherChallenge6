@@ -102,7 +102,7 @@ https://openweathermap.org/weather-conditions - how to add API Icons from openwe
 
 Links:
 
-Repository Link : https://github.com/Akshatha2022/WeatherChallenge6
+Repository Link : https://github.com/Akshatha2022/WeatherCheck.git
 
-Deployed Page Link : https://akshatha2022.github.io/WeatherChallenge6/
+Deployed Page Link : https://akshatha2022.github.io/WeatherCheck/
  
